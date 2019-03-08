@@ -8,7 +8,7 @@ Uygulama ile sürtünme katsayısını,
 
 kullarak hesaplayabilirsiniz. 
 
-Bu formüller için [Darcy-Weisbach Sürtünme Katsayısının Hesabı](https://eykaraduman.github.io/darcy-weisbach-surtunme-katsayisinin-hesabi/) adlı yazıyı inceleyebilirsiniz. 
+Uygulamanın kullandığı formüller için [Darcy-Weisbach Sürtünme Katsayısının Hesabı](https://eykaraduman.github.io/darcy-weisbach-surtunme-katsayisinin-hesabi/) adlı yazıyı inceleyebilirsiniz. 
 
 Uygulamanın kurulum dosyasını ise [Release](https://github.com/eykaraduman/DwFrictionFactor/releases) bölümünden indirebilirsiniz.
 
